@@ -97,7 +97,6 @@ section {
   padding: 2rem;
 }
 h1 {
-  background:red;
   text-transform: uppercase;
   color: #194747;
   margin: 0;
@@ -113,7 +112,6 @@ h2 {
   margin: 0;
   font-size:;
   font-weight: bold;
-  background:green;
   font-size:5vw;
   
 }
@@ -124,7 +122,6 @@ p {
   padding:0 4rem;
   margin: 0;
   line-height: 1.25;
-  background:blue;
 }
 
 /* Styles pour la classe "home" */
@@ -143,7 +140,6 @@ p {
   color: #194747;
   text-transform: none;
   text-align: left;
-  background:yellow;
   line-height: 1;
   font-size:6.5vmin;
 }
@@ -151,7 +147,6 @@ p {
   margin: 0;
   padding:0;
   font-size: 3vmin;
-  background:grey;
   line-height: 1.25;
 }
 /* Styles pour l'élément avec l'ID "picture" à l'intérieur d'un élément ayant la classe "home" */
