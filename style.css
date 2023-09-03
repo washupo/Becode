@@ -671,14 +671,12 @@ p {
   padding:0;
   color: #194747;
   text-transform: none;
-  background:yellow;
   line-height: 1;
 }
   .home #hero > p {
   margin: 0;
   padding:0;
   font-size: 4vw;
-  background:grey;
   line-height: 1.25;
   text-align:center;
 }
@@ -697,7 +695,6 @@ p {
   /* Styles pour l'élément avec l'ID "hero" à l'intérieur d'un élément ayant la classe "home" */
   .home #hero {
   padding:0;
-  background:green;
   height: 50vh;
   top:10%;
 } 
@@ -793,7 +790,6 @@ p {
 .motivations p {
   font-size:3vmin;
   padding:0 2rem;
-  background:grey;
   line-height: 1.25;
   text-align:justify;
 }  
