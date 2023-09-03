@@ -778,19 +778,21 @@ p {
   padding: 0;
   margin: 0;
   gap: 0; /* Adjust this value as needed */
-  bottom: 0; /* Position en haut de la page (peut nécessiter une autre propriété pour fonctionner correctement) */
-  justify-items: center; /* Aligne les éléments enfants horizontalement au centre */
   text-align: center;
 } 
 .motivations h2 {
   font-size: 7vw;
   top:0;
-  margin:-10 0 0 0;
+  margin:0;
+  padding:0;
 }  
-.motivations p {
+  .motivations .block {
+    height:50vh;
+    padding-top:15px;
+  }
+  .motivations p {
   font-size:3vmin;
   padding:0 2rem;
-  margin:0;
   line-height: 1.25;
   text-align:justify;
 }  
