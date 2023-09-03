@@ -687,8 +687,8 @@ p {
   transform: rotate(
     -15deg
   ); /* Rotation de l'élément de -15 degrés (rotation en sens inverse des aiguilles d'une montre) */
-  max-width: auto;
-  height: 50vh;
+  max-width: 80vw;
+  height: 40vh;
   display: block;
   bottom: 15%;
 }
