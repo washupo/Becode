@@ -1,2 +1,2 @@
 # Candidature Becode
-https://washupo.github.io/Becode/
+(https://washupo.github.io/Candidature-Becode/)https://washupo.github.io/Candidature-Becode/
